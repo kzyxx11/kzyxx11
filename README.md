@@ -6,7 +6,7 @@ A cloud-native quantitative enthusiast and open-source intelligence (OSINT) prac
 
 ## 🚀 Live Production Pipelines
 
-### 📈 [ETF Trend Monitor](https://github.com/kzyxx11/ETF-Trend-Monitor)
+### 📈 [ETF Trend Monitor](https://github.com/kzyxx11/quant_trade_bot)
 * **Description:** An autonomous cross-border financial data pipeline tracking global macro ETFs (e.g., QQQM, CSPX).
 * **Architecture:** Yahoo Finance API ➔ GitHub Actions (Serverless Engine) ➔ Python Analytics (Pandas/Matplotlib) ➔ Secured Telegram Bot Dispatches.
 * **Status:** Live & fully internationalized.
